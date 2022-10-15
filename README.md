@@ -7,8 +7,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/drive/u/3/my-drive)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/juan-hernandez-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-hernandez-dev" height="30" width="40" /></a>
 </p>
 
